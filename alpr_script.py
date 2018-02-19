@@ -2,6 +2,7 @@
 # 'sudo apt-get update && sudo apt-get install python-openalpr' to be able to import openalpr
 
 # Also, must change the path to the image manually for now.
+# Source: https://github.com/openalpr/openalpr/wiki/Integrating-OpenALPR
 
 from openalpr import Alpr
 
