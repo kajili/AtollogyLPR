@@ -2,8 +2,7 @@
 # The image path needs to be changed manually for now
 # The Secret Key is from my OpenALPR Cloud API Account (cloud.openalpr.com)
 
-# To set up environment see: https://github.com/openalpr/cloudapi/tree/master/python
-# **Note: Currently getting errors on "import openalpr_api" saying there is no module named openalpr_api. But this is the correct code to send a file using the API.
+# To set up environment see: https://github.com/kajili/AtollogyLPR/wiki#to-setup-the-openalpr_cloud_apipy-script
 
 
 import time
@@ -13,7 +12,7 @@ from pprint import pprint
 
 # create an instance of the API class
 api_instance = openalpr_api.DefaultApi()
-image = '/home/kevin/Downloads/ea7the.jpg' # file | The image file that you wish to analyze 
+image = '/path/to/image.jpg' # file | The image file that you wish to analyze 
 
 secret_key = 'sk_01a75f02eca170f3a5d23073' # str | The secret key used to authenticate your account.  You can view your  secret key by visiting  https://cloud.openalpr.com/ 
 
