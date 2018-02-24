@@ -1,6 +1,7 @@
 # This is a script made to send a file to the OpenALPR Cloud API Service for recognition
 # The image path needs to be changed manually for now
 # The Secret Key is from my OpenALPR Cloud API Account (cloud.openalpr.com)
+# Usage: `python OpenALPR_Cloud_API.py <image-path>`
 
 # To set up environment see: https://github.com/kajili/AtollogyLPR/wiki#to-setup-the-openalpr_cloud_apipy-script
 
@@ -33,8 +34,13 @@ prewarp = '' # str | Prewarp configuration is used to calibrate the analyses for
 try: 
     api_response = api_instance.recognize_file(image, secret_key, country, recognize_vehicle=recognize_vehicle, state=state, return_image=return_image, topn=topn, prewarp=prewarp)
     
-
-    pprint(api_response.results[0].plate)
-    #pprint(api_response.credits_monthly_used)
+    #print(api_response)
+    if not api_response.results:
+	print("No License Plate Found.")
+    else:
+	parsedResponse = api_response.results[0].plate
+	print(parsedResponse)
+	# Uncomment if you want to check how many credits have been used
+    	#pprint(api_response.credits_monthly_used)
 except ApiException as e:
     print "Exception when calling DefaultApi->recognize_file: %s\n" % e
