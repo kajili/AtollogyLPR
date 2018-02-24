@@ -1,13 +1,18 @@
 test_images
 folder1
 2.jpg
-DWD1675
+open:::DWD1675
+cloud:::DWD1675
 Harrison2.jpeg
-No license plates found.
+open:::No license plates found.
+cloud:::No license plates found.
 1.jpg
-DWD1675
+open:::DWD1675
+cloud:::DWD1675
 folder2
 Harrison1.jpeg
-No license plates found.
+open:::No license plates found.
+cloud:::No license plates found.
 3.jpg
-DWD1675
+open:::DWD1675
+cloud:::DWD1675

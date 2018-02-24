@@ -1,0 +1,107 @@
+outdoor_test_images/
+license2
+backlight
+test7
+backlightTest20_pilib.jpg
+open:::8AFL04
+cloud:::8AFL064
+backlightTest20_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlightTest10_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlightTest20_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlightTest10_webcamcv.jpg
+open:::No license plates found.
+cloud:::4FL024
+backlightTest10_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlightTest10_pilib.jpg
+open:::8AFL064
+cloud:::8AFL064
+backlightTest20_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare
+test10
+glareTest20_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glareTest10_fswebcam.jpg
+open:::No license plates found.
+cloud:::5AFL064
+glareTest10_picv.jpg
+open:::8AF064
+cloud:::8AFL064
+glareTest10_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glareTest10_pilib.jpg
+open:::8AFL064
+cloud:::8AFL064
+glareTest20_pilib.jpg
+open:::8AFL064
+cloud:::8AFL064
+glareTest20_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glareTest20_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+license1
+backlight
+test4
+backlightTest20_pilib.jpg
+open:::No license plates found.
+cloud:::6XWW251
+backlightTest20_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlightTest10_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlightTest20_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlightTest10_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlightTest10_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlightTest10_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlightTest20_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare
+test1
+glareTest20_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glareTest10_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+glareTest10_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glareTest10_webcamcv.jpg
+open:::6XWW251
+cloud:::6XWW251
+glareTest10_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+glareTest20_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glareTest20_fswebcam.jpg
+open:::VWZ51
+cloud:::6XWW251
+glareTest20_webcamcv.jpg
+open:::6I251
+cloud:::6XWW251
