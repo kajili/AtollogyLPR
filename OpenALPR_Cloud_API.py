@@ -7,12 +7,13 @@
 
 import time
 import openalpr_api
+import sys
 from openalpr_api.rest import ApiException
 from pprint import pprint
 
 # create an instance of the API class
 api_instance = openalpr_api.DefaultApi()
-image = '/path/to/image.jpg' # file | The image file that you wish to analyze 
+image = sys.argv[1] # file | The image file that you wish to analyze 
 
 secret_key = 'sk_01a75f02eca170f3a5d23073' # str | The secret key used to authenticate your account.  You can view your  secret key by visiting  https://cloud.openalpr.com/ 
 
