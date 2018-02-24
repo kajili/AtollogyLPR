@@ -6,6 +6,7 @@
 
 
 import time
+import json
 import openalpr_api
 import sys
 from openalpr_api.rest import ApiException
@@ -31,6 +32,9 @@ prewarp = '' # str | Prewarp configuration is used to calibrate the analyses for
 
 try: 
     api_response = api_instance.recognize_file(image, secret_key, country, recognize_vehicle=recognize_vehicle, state=state, return_image=return_image, topn=topn, prewarp=prewarp)
-    pprint(api_response)
+    
+
+    pprint(api_response.results[0].plate)
+    #pprint(api_response.credits_monthly_used)
 except ApiException as e:
     print "Exception when calling DefaultApi->recognize_file: %s\n" % e
