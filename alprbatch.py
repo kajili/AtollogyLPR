@@ -1,3 +1,6 @@
+# Usage for this script: "python alprbatch.py <imageDirectory>"
+# Output goes to batchOut.txt
+
 import os
 from struct import*
 import sys
