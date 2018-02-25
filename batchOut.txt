@@ -1,6 +1,813 @@
 outdoor_test_images2
-license2
-backlit6
+6XWW251
+backlit3
+backlit20_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit40_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit50_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit10_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit10_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit50_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit20_picv.jpg
+open:::6XW251
+cloud:::6XWW251
+backlit10_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit30_fswebcam.jpg
+open:::No license plates found.
+cloud:::6XWW251
+backlit40_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit30_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit40_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit30_webcamcv.jpg
+open:::No license plates found.
+cloud:::6XWW251
+backlit20_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit50_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit20_webcamcv.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit10_webcamcv.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit30_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit50_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit40_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare1
+glare50_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare40_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare20_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare50_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare20_fswebcam.jpg
+open:::XW51
+cloud:::6XWW251
+glare50_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare10_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+glare40_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare40_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare20_pilib.jpg
+open:::XWW51
+cloud:::6XWW251
+glare30_fswebcam.jpg
+open:::No license plates found.
+cloud:::6XWW251
+glare40_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare30_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare10_webcamcv.jpg
+open:::6XWW251
+cloud:::6XWW251
+glare50_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare10_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare30_webcamcv.jpg
+open:::No license plates found.
+cloud:::6XWW251
+glare30_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare10_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+glare20_webcamcv.jpg
+open:::XW51
+cloud:::6XWW251
+backlit1
+backlit20_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit40_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit50_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit10_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit10_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit50_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit20_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+test_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit10_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit30_fswebcam.jpg
+open:::No license plates found.
+cloud:::6XWW251
+backlit40_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit30_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit40_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit30_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit20_fswebcam.jpg
+open:::6XW251
+cloud:::6XWW251
+backlit50_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit20_webcamcv.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit10_webcamcv.jpg
+open:::6XWW251
+cloud:::6XWW251
+test_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+test_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit30_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit50_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+test_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit40_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare2
+glare50_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare40_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare20_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare50_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare20_fswebcam.jpg
+open:::No license plates found.
+cloud:::XWW251
+glare50_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare10_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+glare40_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare40_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare20_pilib.jpg
+open:::XWW51
+cloud:::6XWW251
+glare30_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare40_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare30_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare10_webcamcv.jpg
+open:::6XWW251
+cloud:::6XWW251
+glare50_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare10_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+glare30_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare30_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare10_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+glare20_webcamcv.jpg
+open:::No license plates found.
+cloud:::6XWW251
+angle
+angle0
+0deg10ft_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+0deg50ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+0deg10ft_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+0deg50ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+0deg40ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+0deg50ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+0deg30ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::6XWW251
+0deg50ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+0deg30ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::6XWW251
+0deg20ft_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+0deg20ft_webcamcv.jpg
+open:::6X251
+cloud:::6XWW251
+0deg30ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+0deg20ft_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+0deg40ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+0deg20ft_fswebcam.jpg
+open:::6XW251
+cloud:::6XWW251
+0deg10ft_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+0deg40ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+0deg10ft_webcamcv.jpg
+open:::6XWW251
+cloud:::6XWW251
+0deg40ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+0deg30ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+angle_pos10
+pos10deg40ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg50ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg30ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg30ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg40ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg10ft_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+pos10deg20ft_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+pos10deg40ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg10ft_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+pos10deg10ft_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+pos10deg20ft_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+pos10deg20ft_webcamcv.jpg
+open:::I25I
+cloud:::6XWW251
+pos10deg30ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg50ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg40ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg10ft_webcamcv.jpg
+open:::6XWW251
+cloud:::6XWW251
+pos10deg50ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg30ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg50ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg20ft_fswebcam.jpg
+open:::XB21
+cloud:::6XWW251
+angle_pos30
+pos30deg50ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg20ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg10ft_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+pos30deg40ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg30ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg10ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg40ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg50ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg30ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg20ft_pilib.jpg
+open:::No license plates found.
+cloud:::6XWW251
+pos30deg30ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg50ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg30ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg20ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg50ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg20ft_picv.jpg
+open:::No license plates found.
+cloud:::6XWW251
+pos30deg10ft_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+pos30deg10ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg40ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg40ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+angle_neg10
+neg10deg20ft_pilib.jpg
+open:::No license plates found.
+cloud:::6XWW251
+neg10deg40ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg10ft_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg10deg10ft_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg10deg10ft_webcamcv.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg10deg10ft_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg10deg30ft_pilib.jpg
+open:::No license plates found.
+cloud:::6XWW251
+neg10deg20ft_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg10deg40ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg30ft_picv.jpg
+open:::No license plates found.
+cloud:::6XWW251
+neg10deg40ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg50ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg30ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::6XWW251
+neg10deg30ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::6XWW251
+neg10deg20ft_fswebcam.jpg
+open:::6X251
+cloud:::6XWW251
+neg10deg50ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg50ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg40ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg20ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg50ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+angle_pos20
+pos20deg50ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg10ft_webcamcv.jpg
+open:::6XWWZ51
+cloud:::6XWW251
+pos20deg30ft_pilib.jpg
+open:::No license plates found.
+cloud:::6XWW251
+pos20deg50ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg40ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg50ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg10ft_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+pos20deg20ft_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+pos20deg20ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::6XWW251
+pos20deg10ft_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+pos20deg20ft_fswebcam.jpg
+open:::6XZ51
+cloud:::6XWW251
+pos20deg40ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg30ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg30ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg50ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg30ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg10ft_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+pos20deg40ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg20ft_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+pos20deg40ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+angle_neg30
+neg30deg50ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg30deg10ft_webcamcv.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg30deg10ft_pilib.jpg
+open:::5XWW251
+cloud:::6XWW251
+neg30deg30ft_pilib.jpg
+open:::No license plates found.
+cloud:::6XWW251
+neg30deg40ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg30deg50ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg30deg20ft_pilib.jpg
+open:::6XWWS1
+cloud:::6XWW251
+neg30deg30ft_picv.jpg
+open:::No license plates found.
+cloud:::KWW251
+neg30deg10ft_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg30deg50ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg30deg20ft_webcamcv.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg30deg10ft_picv.jpg
+open:::XWW251
+cloud:::6XWW251
+neg30deg40ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg30deg20ft_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg30deg40ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg30deg30ft_webcamcv.jpg
+open:::6XW25
+cloud:::6XWW251
+neg30deg40ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg30deg50ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg30deg20ft_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg30deg30ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::6XWW251
+angle_neg20
+neg20deg10ft_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg20deg50ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg20deg10ft_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg20deg50ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg20deg40ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg20deg20ft_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg20deg40ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg20deg50ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg20deg10ft_webcamcv.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg20deg50ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg20deg30ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::6XWW251
+neg20deg20ft_webcamcv.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg20deg20ft_pilib.jpg
+open:::No license plates found.
+cloud:::6XWW251
+neg20deg40ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg20deg30ft_pilib.jpg
+open:::No license plates found.
+cloud:::6XW251
+neg20deg20ft_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg20deg10ft_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+neg20deg30ft_fswebcam.jpg
+open:::6121
+cloud:::6XWW251
+neg20deg40ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg20deg30ft_picv.jpg
+open:::No license plates found.
+cloud:::6XWW251
+glare3
+glare50_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare40_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare20_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare50_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare20_fswebcam.jpg
+open:::XW51
+cloud:::No license plates found.
+glare50_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare10_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+glare40_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare40_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare20_pilib.jpg
+open:::No license plates found.
+cloud:::6XWW251
+glare30_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare40_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare30_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare10_webcamcv.jpg
+open:::6XWW251
+cloud:::6XWW251
+glare50_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare10_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+glare30_webcamcv.jpg
+open:::No license plates found.
+cloud:::6XWW251
+glare30_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+glare10_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+glare20_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit2
+backlit20_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit40_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit50_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit10_picv.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit10_pilib.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit50_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit20_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit10_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit30_fswebcam.jpg
+open:::No license plates found.
+cloud:::6XWW251
+backlit40_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit30_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit40_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit30_webcamcv.jpg
+open:::No license plates found.
+cloud:::6XWW251
+backlit20_fswebcam.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit50_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit20_webcamcv.jpg
+open:::6XW251
+cloud:::6XWW251
+backlit10_webcamcv.jpg
+open:::6XWW251
+cloud:::6XWW251
+backlit30_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit50_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit40_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+8AFL064
+backlit3
 backlit20_pilib.jpg
 open:::8AFL064
 cloud:::8AFL064
@@ -134,9 +941,9 @@ cloud:::No license plates found.
 test_picv.jpg
 open:::No license plates found.
 cloud:::No license plates found.
-backlit5
+backlit1
 backlit20_pilib.jpg
-open:::8AFL064
+open:::8AFLQ64
 cloud:::8AFL064
 backlit40_picv.jpg
 open:::No license plates found.
@@ -146,7 +953,7 @@ open:::No license plates found.
 cloud:::No license plates found.
 backlit10_picv.jpg
 open:::8AFL064
-cloud:::8AFL64
+cloud:::8AFL064
 backlit10_pilib.jpg
 open:::8AFL064
 cloud:::8AFL064
@@ -155,13 +962,13 @@ open:::No license plates found.
 cloud:::No license plates found.
 backlit20_picv.jpg
 open:::No license plates found.
-cloud:::No license plates found.
+cloud:::8AFL064
 backlit10_fswebcam.jpg
 open:::8AFL064
 cloud:::8AFL064
 backlit30_fswebcam.jpg
-open:::No license plates found.
-cloud:::8AFL064
+open:::8L04
+cloud:::No license plates found.
 backlit40_pilib.jpg
 open:::No license plates found.
 cloud:::No license plates found.
@@ -173,7 +980,7 @@ open:::No license plates found.
 cloud:::No license plates found.
 backlit30_webcamcv.jpg
 open:::No license plates found.
-cloud:::8AFL064
+cloud:::No license plates found.
 backlit20_fswebcam.jpg
 open:::8AFL064
 cloud:::8AFL064
@@ -256,65 +1063,432 @@ cloud:::8AFL064
 glare20_webcamcv.jpg
 open:::No license plates found.
 cloud:::No license plates found.
-backlit4
-backlit20_pilib.jpg
-open:::8AFLQ64
-cloud:::8AFL064
-backlit40_picv.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-backlit50_webcamcv.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-backlit10_picv.jpg
+angle
+angle0
+0deg10ft_pilib.jpg
 open:::8AFL064
 cloud:::8AFL064
-backlit10_pilib.jpg
+0deg50ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+0deg10ft_fswebcam.jpg
 open:::8AFL064
 cloud:::8AFL064
-backlit50_pilib.jpg
+0deg50ft_pilib.jpg
 open:::No license plates found.
 cloud:::No license plates found.
-backlit20_picv.jpg
+0deg40ft_fswebcam.jpg
 open:::No license plates found.
-cloud:::8AFL064
-backlit10_fswebcam.jpg
+cloud:::No license plates found.
+0deg50ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+0deg30ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+0deg50ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+0deg30ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+0deg20ft_picv.jpg
 open:::8AFL064
 cloud:::8AFL064
-backlit30_fswebcam.jpg
-open:::8L04
-cloud:::No license plates found.
-backlit40_pilib.jpg
+0deg20ft_webcamcv.jpg
+open:::8AF1Q
+cloud:::8AFL064
+0deg30ft_picv.jpg
 open:::No license plates found.
 cloud:::No license plates found.
-backlit30_pilib.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-backlit40_webcamcv.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-backlit30_webcamcv.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-backlit20_fswebcam.jpg
+0deg20ft_pilib.jpg
 open:::8AFL064
 cloud:::8AFL064
-backlit50_picv.jpg
+0deg40ft_picv.jpg
 open:::No license plates found.
 cloud:::No license plates found.
-backlit20_webcamcv.jpg
+0deg20ft_fswebcam.jpg
+open:::8FL04
+cloud:::8AFL064
+0deg10ft_picv.jpg
 open:::8AFL064
 cloud:::8AFL064
-backlit10_webcamcv.jpg
+0deg40ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+0deg10ft_webcamcv.jpg
 open:::8AFL064
 cloud:::8AFL064
-backlit30_picv.jpg
+0deg40ft_pilib.jpg
 open:::No license plates found.
 cloud:::No license plates found.
-backlit50_fswebcam.jpg
+0deg30ft_pilib.jpg
 open:::No license plates found.
 cloud:::No license plates found.
-backlit40_fswebcam.jpg
+angle_pos10
+pos10deg40ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg50ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg30ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg30ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg40ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg10ft_picv.jpg
+open:::8AFL064
+cloud:::8AFL064
+pos10deg20ft_pilib.jpg
+open:::8AFL06
+cloud:::8AFL064
+pos10deg40ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg10ft_fswebcam.jpg
+open:::8AFL064
+cloud:::8AFL064
+pos10deg10ft_pilib.jpg
+open:::8AFL064
+cloud:::8AFL064
+pos10deg20ft_picv.jpg
+open:::8AFL064
+cloud:::8AFL064
+pos10deg20ft_webcamcv.jpg
+open:::8L06
+cloud:::8AFL064
+pos10deg30ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg50ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg40ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg10ft_webcamcv.jpg
+open:::8AFL064
+cloud:::8AFL064
+pos10deg50ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg30ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg50ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos10deg20ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::8AFL064
+angle_pos30
+pos30deg50ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg20ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg10ft_pilib.jpg
+open:::8AFL06
+cloud:::8AFL06
+pos30deg40ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg30ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg10ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg40ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg50ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg30ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg20ft_pilib.jpg
+open:::No license plates found.
+cloud:::8AFL064
+pos30deg30ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg50ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg30ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg20ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg50ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg20ft_picv.jpg
+open:::No license plates found.
+cloud:::8AFL064
+pos30deg10ft_picv.jpg
+open:::8AFL06
+cloud:::8AFL064
+pos30deg10ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg40ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos30deg40ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+angle_neg10
+neg10deg20ft_pilib.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg10deg40ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg10ft_picv.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg10deg10ft_fswebcam.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg10deg10ft_webcamcv.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg10deg10ft_pilib.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg10deg30ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg20ft_picv.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg10deg40ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg30ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg40ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg50ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg30ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg30ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg20ft_fswebcam.jpg
+open:::FL0L
+cloud:::8AFL064
+neg10deg50ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg50ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg40ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg10deg20ft_webcamcv.jpg
+open:::FL04
+cloud:::8AFL064
+neg10deg50ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+angle_pos20
+pos20deg50ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg10ft_webcamcv.jpg
+open:::8AFL064
+cloud:::8AFL064
+pos20deg30ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg50ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg40ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg50ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg10ft_pilib.jpg
+open:::8AFL064
+cloud:::8AFL064
+pos20deg20ft_pilib.jpg
+open:::8AL064
+cloud:::8AFL064
+pos20deg20ft_webcamcv.jpg
+open:::8FL4
+cloud:::8AFL064
+pos20deg10ft_picv.jpg
+open:::8AFL064
+cloud:::8AFL064
+pos20deg20ft_fswebcam.jpg
+open:::FL04
+cloud:::8AFL064
+pos20deg40ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg30ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg30ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg50ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg30ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg10ft_fswebcam.jpg
+open:::8AFL064
+cloud:::8AFL064
+pos20deg40ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+pos20deg20ft_picv.jpg
+open:::8AFL064
+cloud:::8AFL064
+pos20deg40ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+angle_neg30
+neg30deg50ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg30deg10ft_webcamcv.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg30deg10ft_pilib.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg30deg30ft_pilib.jpg
+open:::No license plates found.
+cloud:::BAFL064
+neg30deg40ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg30deg50ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg30deg20ft_pilib.jpg
+open:::No license plates found.
+cloud:::8AFL064
+neg30deg30ft_picv.jpg
+open:::No license plates found.
+cloud:::BAFL064
+neg30deg10ft_fswebcam.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg30deg50ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg30deg20ft_webcamcv.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg30deg10ft_picv.jpg
+open:::3AFL064
+cloud:::8AFL064
+neg30deg40ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg30deg20ft_fswebcam.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg30deg40ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg30deg30ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::8AFL064
+neg30deg40ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg30deg50ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg30deg20ft_picv.jpg
+open:::No license plates found.
+cloud:::8AFL064
+neg30deg30ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::8AFL064
+angle_neg20
+neg20deg10ft_pilib.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg20deg50ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg20deg10ft_fswebcam.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg20deg50ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg20deg40ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg20deg20ft_fswebcam.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg20deg40ft_picv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg20deg50ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg20deg10ft_webcamcv.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg20deg50ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg20deg30ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::HAIL064
+neg20deg20ft_webcamcv.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg20deg20ft_pilib.jpg
+open:::8AL064
+cloud:::8AFL064
+neg20deg40ft_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg20deg30ft_pilib.jpg
+open:::No license plates found.
+cloud:::8AFL064
+neg20deg20ft_picv.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg20deg10ft_picv.jpg
+open:::8AFL064
+cloud:::8AFL064
+neg20deg30ft_fswebcam.jpg
+open:::No license plates found.
+cloud:::HAFL044
+neg20deg40ft_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+neg20deg30ft_picv.jpg
 open:::No license plates found.
 cloud:::No license plates found.
 glare3
@@ -378,128 +1552,64 @@ cloud:::8AFL064
 glare20_webcamcv.jpg
 open:::8AFL06L
 cloud:::8AFL064
-angle2
-angle0
-0deg10ft_pilib.jpg
+backlit2
+backlit20_pilib.jpg
 open:::8AFL064
 cloud:::8AFL064
-0deg50ft_fswebcam.jpg
+backlit40_picv.jpg
 open:::No license plates found.
 cloud:::No license plates found.
-0deg10ft_fswebcam.jpg
+backlit50_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit10_picv.jpg
+open:::8AFL064
+cloud:::8AFL64
+backlit10_pilib.jpg
 open:::8AFL064
 cloud:::8AFL064
-0deg50ft_pilib.jpg
+backlit50_pilib.jpg
 open:::No license plates found.
 cloud:::No license plates found.
-0deg40ft_fswebcam.jpg
+backlit20_picv.jpg
 open:::No license plates found.
 cloud:::No license plates found.
-0deg50ft_webcamcv.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-0deg30ft_webcamcv.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-0deg50ft_picv.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-0deg30ft_fswebcam.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-0deg20ft_picv.jpg
+backlit10_fswebcam.jpg
 open:::8AFL064
 cloud:::8AFL064
-0deg20ft_webcamcv.jpg
-open:::8AF1Q
+backlit30_fswebcam.jpg
+open:::No license plates found.
 cloud:::8AFL064
-0deg30ft_picv.jpg
+backlit40_pilib.jpg
 open:::No license plates found.
 cloud:::No license plates found.
-0deg20ft_pilib.jpg
+backlit30_pilib.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit40_webcamcv.jpg
+open:::No license plates found.
+cloud:::No license plates found.
+backlit30_webcamcv.jpg
+open:::No license plates found.
+cloud:::8AFL064
+backlit20_fswebcam.jpg
 open:::8AFL064
 cloud:::8AFL064
-0deg40ft_picv.jpg
+backlit50_picv.jpg
 open:::No license plates found.
 cloud:::No license plates found.
-0deg20ft_fswebcam.jpg
-open:::8FL04
-cloud:::8AFL064
-0deg10ft_picv.jpg
+backlit20_webcamcv.jpg
 open:::8AFL064
 cloud:::8AFL064
-0deg40ft_webcamcv.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-0deg10ft_webcamcv.jpg
+backlit10_webcamcv.jpg
 open:::8AFL064
 cloud:::8AFL064
-0deg40ft_pilib.jpg
+backlit30_picv.jpg
 open:::No license plates found.
 cloud:::No license plates found.
-0deg30ft_pilib.jpg
+backlit50_fswebcam.jpg
 open:::No license plates found.
 cloud:::No license plates found.
-angle+10
-+10deg10ft_webcamcv.jpg
-open:::8AFL064
-cloud:::8AFL064
-+10deg30ft_picv.jpg
+backlit40_fswebcam.jpg
 open:::No license plates found.
 cloud:::No license plates found.
-+10deg50ft_pilib.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-+10deg30ft_webcamcv.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-+10deg40ft_picv.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-+10deg30ft_pilib.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-+10deg50ft_picv.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-+10deg50ft_webcamcv.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-+10deg40ft_fswebcam.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-+10deg10ft_picv.jpg
-open:::8AFL064
-cloud:::8AFL064
-+10deg50ft_fswebcam.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-+10deg20ft_fswebcam.jpg
-open:::No license plates found.
-cloud:::8AFL064
-+10deg10ft_pilib.jpg
-open:::8AFL064
-cloud:::8AFL064
-+10deg20ft_webcamcv.jpg
-open:::8L06
-cloud:::8AFL064
-+10deg40ft_webcamcv.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-+10deg30ft_fswebcam.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-+10deg20ft_pilib.jpg
-open:::8AFL06
-cloud:::8AFL064
-+10deg10ft_fswebcam.jpg
-open:::8AFL064
-cloud:::8AFL064
-+10deg40ft_pilib.jpg
-open:::No license plates found.
-cloud:::No license plates found.
-+10deg20ft_picv.jpg
-open:::8AFL064
-cloud:::8AFL064
-angle-10
--10deg10ft_pilib.jpg
