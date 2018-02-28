@@ -1,0 +1,30 @@
+Test:::X1(Name of test, [Backlit, Glare, Angle-X, ...]):::D(Distance, [10-50])
+Source:::Y(Cloud or Open)
+Result:::Type(of image, [pilib, picv, ...]:::Value(Similarity [0-100])
+...
+...
+Best:::Value
+Source:::Z
+Result:::Type:::Value
+...
+...
+Test:::X2:::D
+Source:::Y
+Result:::Type:::Value
+...
+...
+Best:::Value
+Source:::Z
+Result:::Type:::Value
+...
+...
+
+
+Test:::Backlit:::10
+Source:::Open
+Result:::pilib:::100
+Result:::picv:::50
+Result:::fswebcam:::100
+Result:::webcamcv:::0
+Best:::100
+Source:::Cloud
