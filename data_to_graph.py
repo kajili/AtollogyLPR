@@ -1,3 +1,8 @@
+# Script used to take parsed data and turn it into a graph that plots Plate Similarity and Distance
+# (Parsed data comes from the raw data that is returned from alprbatch.py)
+
+# To install matplotlib run this in command line: `sudo apt-get install python-matplotlib`
+# Usage for this script: `python data_to_graph.py <input-file>'
 
 import sys
 import matplotlib.pyplot as plt
