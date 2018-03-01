@@ -78,29 +78,33 @@ def parse(file, parsedData):
 
 	#print ("Counter " + str(counter))
 
-def prettyPrint(parsedData):
+def prettyPrint(parsedData, outputFile):
 
-	#
+	outFile = open(outputFile, "w")
 
 	for plate, plate_data in zip( parsedData.keys(), parsedData.values() ):
 
-		print("Plate:::" + plate.rstrip('\n') )
+		outFile.write("Plate:::" + plate.rstrip('\n') + '\n')
 		for test, test_data in zip( plate_data.keys(), plate_data.values() ):				
 			
 			for distance, distance_data in zip( test_data.keys(), test_data.values() ):
 
-				print("Test:::" + test.rstrip('\n') + ":::" + distance.rstrip('\n'))
+				outFile.write("Test:::" + test.rstrip('\n') + ":::" + distance.rstrip('\n')+ '\n')
 				for source, source_data in zip( distance_data.keys(), distance_data.values() ):
 
-					print("Source:::" + source)
+					outFile.write("Source:::" + source + '\n')
 					for element, element_data in zip( source_data.keys(), source_data.values() ):
 
 						if element == "Best":
-							print("Best:::" + str(element_data))
+							outFile.write("Best:::" + str(element_data) + '\n')
 
 						else:
 							for result_type, result_value in zip( element_data.keys(), element_data.values() ):
-								print("Result:::" + result_type + ":::" + str(result_value))
+								outFile.write("Result:::" + result_type + ":::" + str(result_value) + '\n')
+
+	outFile.write("Test:::DONE:::20" + '\n')
+
+	outFile.close()
 
 
 def getSimilarity(plate, test):
@@ -133,18 +137,19 @@ def generateBest(parsedData):
 def main():
 
 	inputFilename = sys.argv[1]
+	outputFilename = sys.argv[2]
 
-	file = open(inputFilename,'r')
+	inputFile = open(inputFilename,'r')
 
 	parsedData = {}
 
-	parse(file, parsedData)
+	parse(inputFile, parsedData)
 
 	generateBest(parsedData)
 
-	prettyPrint(parsedData)
+	prettyPrint(parsedData, outputFilename)
 
-	file.close()
+	inputFile.close()
 
 
 
