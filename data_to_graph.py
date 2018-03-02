@@ -1,3 +1,5 @@
+# To use this script must install the fpdf module, run: `sudo pip install fpdf`
+# Usage: `python data_to_graph.py <parsedDataFile>`
 
 import sys
 import matplotlib.pyplot as plt
