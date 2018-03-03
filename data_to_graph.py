@@ -1,5 +1,3 @@
-# To use this script must install the fpdf module, run: `sudo pip install fpdf`
-# Usage: `python data_to_graph.py <parsedDataFile>`
 
 import sys
 import matplotlib.pyplot as plt
@@ -41,18 +39,40 @@ def dograph(value,title,source,datax,plate):
     title_pdf = title + ' ' + plate + '.png'
     new_title  = title + ' ' + plate
     plt.title(new_title)
-    datax = sorted(datax,key = int)
+    #datax = sorted(datax,key = int)
     # Splitting Data between Both sources
     even = best_value[0::2]
     odd = best_value[1::2]
+    counter = 0
 
-    plt.plot(datax,even, color='red', linestyle='-', marker='o')
+    for i, j in enumerate(datax):
+        counter += 1
+        if counter == len(datax):
+            break
+        if j > datax[i+1]:
+            place1 = datax[i+1]
+            place2 = j
+            datax[i] = place1
+            datax[i+1] = place2
 
-    plt.plot(datax,odd,color='green', linestyle='-', marker = 'o')
+            place1 = odd[i+1]
+            place2 = odd[i]
+            odd[i] = place1
+            odd[i+1] = place2
 
+            place1 = even[i+1]
+            place2 = even[i]
+            even[i] = place1
+            even[i+1] = place2
+
+    plt.plot(distance, even, color='red', linestyle='-', marker='o')
+
+    plt.plot(distance, odd, color='green', linestyle='-', marker='o')
     red_patch = mpatches.Patch(color='red', label='OpenALPR')
     green_patch = mpatches.Patch(color='green', label='Cloud-OpenALPR')
     plt.legend(handles=[red_patch,green_patch])
+    axes = plt.gca()
+    axes.set_ylim([0, 100])
     pdf_names.append(title_pdf)
     plt.savefig(new_title)
    # plt.show()
