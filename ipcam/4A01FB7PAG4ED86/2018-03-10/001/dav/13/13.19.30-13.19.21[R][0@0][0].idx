@@ -1,0 +1,3 @@
+Frame=",42961432370,0,162887,1"
+EncodeFormat={"Audio":{"Bitrate":64,"Channels":[0],"Compression":"G.711A","Depth":16,"Frequency":16000,"Mode":0,"Pack":"DHAV"},"AudioEnable":false,"Video":{"BitRate":1536,"BitRateControl":"VBR","Compression":"H.264","CustomResolutionName":"3840x2160","FPS":15,"GOP":30,"Height":720,"Pack":"DHAV","Priority":0,"Profile":"High","Quality":6,"QualityRange":6,"SVCTLayer":1,"Width":1280},"VideoEnable":true}
+Frame="P,42961423210,162887,2094,1"
